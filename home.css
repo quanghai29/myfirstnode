@@ -1,0 +1,155 @@
+/*Section 1*/
+.section1 {
+  display: flex;
+  padding: 0px 180px;
+  margin-bottom:50px;
+}
+.section1-left {
+  color: white;
+  max-width: 420px;
+  width: 100%;
+  margin-right: 185px;
+  margin-top: 60px;
+}
+.section1-left h1 {
+  font-weight: 80;
+  font-size: 50px;
+  line-height: 1.2;
+}
+.section1-left h3 {
+  font-weight: 80;
+}
+.section1-hr {
+  margin-top: 40px;
+  border-top: 1px solid;
+  margin-bottom: 30px;
+}
+.section1-h1 {
+  margin-bottom: 60px;
+}
+.section1-p {
+  margin-bottom: 60px;
+}
+.section1-a {
+  display: inline-block;
+  width: 161px;
+  background-color: white;
+  color: #3e3f40;
+  height: 50px;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 400;
+}
+.section1-a:hover {
+  color: white;
+  background-color: #3e3f40;
+  text-decoration: none;
+}
+
+/*Section 2*/
+.section2{
+    margin: 40px 0;
+    padding: 60px 0px 58px 27px;
+}
+
+.section2-high {
+  width: 360px;
+  height: 480px;
+  display:inline-block;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 45px 50px;
+  border-radius: 3%;
+  margin: 0px 30px;
+}
+.section2:first{
+    margin-left: 50px;
+}
+.section2-high h3{
+    color:black;
+    margin-bottom:50px;
+    margin-top:0;
+    font-weight: 400;
+    font-size:26px;
+    text-align: center;
+}
+.section2-icon{
+    border: 1px solid;
+    width:110px;
+    height:110px;
+    display:inline-block;
+    margin: 0 60px 60px 75px; 
+    border-radius: 50%;
+    text-align: center;
+    padding-top:25px;
+}
+
+.section2 p{
+    width:260px;
+    height:90px;
+    text-align: center;
+}
+
+/* Section3 */
+.section3{
+  display:flex;
+  padding: 30px 65px;
+}
+.section3-img{
+  margin-right: 20px;
+}
+
+.section3-get-inf{
+  background-color:white;
+  width:780px;
+  height:400px;
+  padding: 50px 60px;
+}
+.section3-get-inf h2{
+  margin: 0px 0 45px 0;
+}
+.section3-get-inf p{
+  margin-bottom: 55px;
+}
+#tatoo{
+  color:#0299CC;
+  font-weight: 450;
+}
+#tatoo:hover{
+  color:#286090;;
+  text-decoration: none;
+}
+.section3-email{
+  padding:15px;
+  width:355px;
+  height: 60px;
+  margin-right:20px;
+}
+
+.section3-get-updates{
+  height: 60px;
+  width:220px;
+  background-color:#0299CC;
+  color:white;
+  border: none;
+  font-size: 20.8px;
+}
+.section3-get-updates:hover{
+  background-color:#1fb4e6;
+}
+/* FOOTER */
+.footer{
+  margin: 50px 10px;
+  padding: 32px 398px;
+  color: white;
+  display: flex;
+  text-align: center;
+}
+
+.footer-templatemo{
+  color:white;
+  
+}
+.footer-templatemo:hover{
+  color:#0299CC;
+  text-decoration: none;
+}
